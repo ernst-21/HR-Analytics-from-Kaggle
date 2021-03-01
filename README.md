@@ -1,6 +1,6 @@
 # HR-Analytics-from-Kaggle
 
-This challenge can be found in Kaggle in case you want to see other notebooks and solutions of the same in case you might want to look other solutions as well:
+This challenge can be found in Kaggle in case you want to see other notebooks and solutions as well:
 
 https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists 
 
